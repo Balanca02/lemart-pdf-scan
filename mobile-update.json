@@ -1,6 +1,6 @@
-﻿{
-    "url":  "https://pdf.lemartcrm.com/lemart-pdf-scan.apk",
-    "sha256":  "ff1f44ffb8ddacb9e81d6df72b988377bf713495db87ea57a18ca862c32baec6",
-    "versionCode":  6,
-    "versionName":  "1.0.5"
+{
+  "url": "https://pdf.lemartcrm.com/lemart-pdf-scan-1.0.5.apk",
+  "sha256": "ff1f44ffb8ddacb9e81d6df72b988377bf713495db87ea57a18ca862c32baec6",
+  "versionName": "1.0.5",
+  "versionCode": 6
 }
